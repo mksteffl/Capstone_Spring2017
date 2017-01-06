@@ -21,8 +21,8 @@ Add your name or group with two spaces and an asterisk before it under your pref
 
 
 ### 20 Jan 2017
-
-
+ 
+  * Bill Laboon
 
 ### 3 Feb 2017
 
